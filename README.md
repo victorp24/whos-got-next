@@ -5,7 +5,7 @@ A mobile app that aims to connect nearby users that enjoy playing pick-up sport 
 ## Video of the app in action (the minimum viable product):
 https://youtu.be/LvLEjvLDRpQ
 
-## Authors
+## App Developers
 Rune Hoejlund
 
 Aric Wolstenholme
